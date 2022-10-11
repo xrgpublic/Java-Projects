@@ -1,5 +1,6 @@
 This program creates a GUI that accepts a binary tree with bracket representation then allows the user to check if the tree is:
 Balanced, full, proper and can return the height of the tree, the number of nodes, and the inorder traversal.
+A word document is in here with test cases and screenshots of the GUI while the program is running.
 
 User Guide:
 1. Enter Tree
